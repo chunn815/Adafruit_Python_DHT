@@ -1,4 +1,4 @@
-#!/usr/bin/pythoxn3
+#!/usr/bin/python3
 import time
 import sys
 import http.client as http
